@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere - Modern E-Commerce Platform",
+  "description": "A feature-packed, responsive e-commerce web application featuring real-time search, multi-faceted filtering, persistent cart & wishlist, multi-step checkout, order history, and developer portfolio showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
